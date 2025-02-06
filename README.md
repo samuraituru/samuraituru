@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tsurugi(Sword)</h1>
 <h3 align="center">A passionate flutter and AI developer from Japan.</h3>
 
-<img align="center" alt="Coding" width="400" src="https://github.com/samuraituru/portfolio/blob/main/assets/images/profile/coding.gif">
+<img align="center" alt="Coding" width="400" src="https://github.com/samuraituru/portfolio/blob/main/assets/images/profile/coding_animation.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuraituru&label=Profile%20views&color=0e21b4&style=flat" alt="samuraituru" /> </p>
 
